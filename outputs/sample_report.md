@@ -6,7 +6,7 @@ Automated Financial Report Summarization & Sentiment Analysis (Demo MVP)
 ## 2. Company Information
 - Company: Apple Inc.
 - Ticker: AAPL
-- Generated At (UTC): 2026-03-06T07:52:02.904181+00:00
+- Generated At (UTC): 2026-03-06T08:28:38.544383+00:00
 
 ## 3. Filing Basic Information
 - Form Type: 10-Q
@@ -34,11 +34,11 @@ Management appears focused on execution continuity, product strategy, and cost/r
 - Negative: 3
 
 ## 9. Main Positive Topics
-- strong
 - growth
-- record
+- strong
 - upgrade
-- expands
+- record
+- partnership
 
 ## 10. Main Negative Topics
 - risk

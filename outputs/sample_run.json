@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T07:52:02.904181+00:00",
+  "generated_at": "2026-03-06T08:28:38.544383+00:00",
   "filing": {
     "company_name": "Apple Inc.",
     "ticker": "AAPL",
@@ -77,11 +77,11 @@
       "negative": 3
     },
     "positive_topics": [
-      "strong",
       "growth",
-      "record",
+      "strong",
       "upgrade",
-      "expands"
+      "record",
+      "partnership"
     ],
     "negative_topics": [
       "risk",
