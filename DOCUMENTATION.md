@@ -195,3 +195,7 @@ Git operations were not available in this environment. Recommended staged commit
   - Success.
 - Remote PR helper URL returned by GitHub:
   - `https://github.com/Leo91314/-Agent/pull/new/codex/automated-financial-report-agent-demo`
+- Final update after smoke-output refresh:
+  - additional commit: `506c299` (`refresh sample outputs after final smoke run`)
+  - push method: SSH over `ssh.github.com:443` with accepted host key due port 22 transport block
+  - branch remains: `codex/automated-financial-report-agent-demo`
