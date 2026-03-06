@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-03-06T07:52:02.904181+00:00",
+  "filing": {
+    "company_name": "Apple Inc.",
+    "ticker": "AAPL",
+    "form_type": "10-Q",
+    "filing_date": "2026-01-30",
+    "accession_number": "0000320193-26-000006",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/aapl-20251227.htm",
+    "filing_snippet": "aapl-20251227 false 2026 Q1 0000320193 --09-26 P1Y P1Y P1Y P1Y http://fasb.org/us-gaap/2025#LongTermDebtNoncurrent http://fasb.org/us-gaap/2025#LongTermDebtNoncurrent P406D P403D xbrli:shares iso4217:USD iso4217:USD xbrli:shares xbrli:pure aapl:Customer aapl:Vendor 0000320193 2025-09-28 2025-12-27 0000320193 us-gaap:CommonStockMember 2025-09-28 2025-12-27 0000320193 aapl:A1.625NotesDue2026Member 2025-09-28 2025-12-27 0000320193 aapl:A2.000NotesDue2027Member 2025-09-28 2025-12-27 0000320193 aapl:A1.375NotesDue2029Member 2025-09-28 2025-12-27 0000320193 aapl:A3.050NotesDue2029Member 2025-09-28 2025-12-27 0000320193 aapl:A0.500Notesdue2031Member 2025-09-28 2025-12-27 0000320193 aapl:A3.600NotesDue2042Member 2025-09-28 2025-12-27 0000320193 2026-01-16 0000320193 us-gaap:ProductMember 2025-09-28 2025-12-27 0000320193 us-gaap:ProductMember 2024-09-29 2024-12-28 0000320193 us-gaap:ServiceMember 2025-09-28 2025-12-27 0000320193 us-gaap:ServiceMember 2024-09-29 2024-12-28 0000320193 2024-09-29 2024-12-28 0000320193 2025-12-27 0000320193 2025-09-27 0000320193 2024-09-28 0000320193 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2025-09-27 0000320193 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2024-09-28 0000320193 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2025-09-28 2025-12-27 0000320193 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2024-09-29 2024-12-28 0000320193 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2025-12-27 0000320193 us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember 2024-12-28 0000320193 us-gaap:RetainedEarningsMember 2025-09-27 0000320193 us-gaap:RetainedEarningsMember 2024-09-28 0000320193 us-gaap:RetainedEarningsMember 2025-09-28 2025-12-27 0000320193 us-gaap:RetainedEarningsMember 2024-09-29 2024-12-28 0000320193 us-gaap:RetainedEarningsMember 2025-12-27 0000320193 us-gaap:RetainedEarningsMember 2024-12-28 0000320193 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2025-09-27 000032019",
+    "errors": [],
+    "source": "sec_live"
+  },
+  "news_items": [
+    {
+      "date": "2026-01-28",
+      "source": "Reuters",
+      "title": "Apple services revenue shows strong growth in quarterly update"
+    },
+    {
+      "date": "2026-01-26",
+      "source": "Bloomberg",
+      "title": "Analysts upgrade Apple after record holiday device sales"
+    },
+    {
+      "date": "2026-01-23",
+      "source": "CNBC",
+      "title": "Apple expands enterprise AI partnership with major software provider"
+    },
+    {
+      "date": "2026-01-21",
+      "source": "WSJ",
+      "title": "Regulators open new probe into big tech app marketplace practices"
+    },
+    {
+      "date": "2026-01-18",
+      "source": "Financial Times",
+      "title": "Supply chain delay risk remains as component lead times stay elevated"
+    },
+    {
+      "date": "2026-01-16",
+      "source": "The Verge",
+      "title": "Apple unveils productivity features aimed at business users"
+    },
+    {
+      "date": "2026-01-14",
+      "source": "MarketWatch",
+      "title": "Broker note flags competition pressure in premium smartphone segment"
+    },
+    {
+      "date": "2026-01-12",
+      "source": "Barron's",
+      "title": "Apple maintains cash generation strength despite macro uncertainty"
+    },
+    {
+      "date": "2026-01-10",
+      "source": "TechCrunch",
+      "title": "New developer tools gain traction across Apple ecosystem"
+    },
+    {
+      "date": "2026-01-08",
+      "source": "Yahoo Finance",
+      "title": "Class action lawsuit filing adds headline risk for major platform providers"
+    }
+  ],
+  "analysis": {
+    "financial_summary": "Apple Inc. latest 10-Q metadata was collected. Detailed body parsing may be limited in demo mode.",
+    "management_view": "Management appears focused on execution continuity, product strategy, and cost/risk balancing based on filing context and news tone.",
+    "risk_factors": [
+      "Macroeconomic uncertainty and demand fluctuations",
+      "Regulatory and legal exposure",
+      "Supply chain and operational execution risks"
+    ],
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 3,
+      "negative": 3
+    },
+    "positive_topics": [
+      "strong",
+      "growth",
+      "record",
+      "upgrade",
+      "expands"
+    ],
+    "negative_topics": [
+      "risk",
+      "probe",
+      "delay",
+      "lawsuit"
+    ],
+    "analysis_mode": "fallback",
+    "analysis_notes": "DeepSeek API key missing or --skip-llm enabled."
+  }
+}
